@@ -1,3 +1,4 @@
+//I have neither given nor received unauthorized aid on this piece of work.
 public class WordMatch {
     private String word = "";
     public WordMatch(String word) {
